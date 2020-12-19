@@ -53,13 +53,13 @@
     "education": [
       {
         "school": "E.S.T",
-        "degree": "Diplome de Cycle Préparatoire Intégré",
+        "degree": "Integrated Preparatory Cycle Diploma",
         "graduated": "Aout 2918",
         "description": "From 2016 to 2018 after obtaining my BAC I did the integrated preparatory cycle. The course of this cycle was to benefit from an intense training of 2 years in Maths Physics Computer science. After this training the students trained will continue the rest of their training in another cycle called the Engineering cycle. During these 2 years of training I learned a lot about 1. Computing Precisely on the C Language and C ++. 2. Physics precisely on Optics thermodynamics mechanics etc. 3. Mathematics precisely on probability Applied Mathematics etc…."
       },
       {
         "school": "E.S.T",
-        "degree": "Licence en Génie Logiciel",
+        "degree": "Bachelor of Software Engineering",
         "graduated": "2018 - 2020",
         "description": "From 2018 to 2019 I did a bachelor's degree in Software Engineering. This License allowed me to understand Technologies related to the Web and Mobile .. and to benefit from MultiMedia training. During this year I have had the privilege of chairing the Oratory Club of Our School. I have organized several training sessions on Public Speaking and Self-Esteem in collaboration with other trainers in the field. I won a competition called DEV IS a competition which is organized internally at the school and which allowed different students to be not only graduates but also project-carrying diplomas."
       },
@@ -73,7 +73,7 @@
     "work": [
       {
         "company": "SoftComp",
-        "title": "Designer Web et Infographe",
+        "title": "Web Designer and Computer Graphics",
         "years": "March 2016 - September 2017",
         "description": "From my first year I had the chance to do an internship in an IT company called SOFTCOMP during this Internship I developed a passion for Mobile Applications. I started my first mobile apps with Ionic and at the same time I loved Photography so I was helping the company to take Photos at events organized by them"
       },
