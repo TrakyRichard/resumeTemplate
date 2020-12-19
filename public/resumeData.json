@@ -1,0 +1,202 @@
+{
+  "main": {
+    "name": "Traky Richard",
+    "occupation": "FullStack Web and Mobile developer. I have 2 years of experience. I am Open-minded and I love to face new challenges.",
+    "image": "moi.jpg",
+    "bio": "I am Timothy Richard I am 20 years old I have been passionate about the achievement of great things in the technological field of my country for a few years !!!! I did 2 years of maths physics (preparatory classes) and I have a current license in software engineering !!!! I did all my computer studies at the Ecole supérieure des telecommunications but I always like to learn alone (I mean on the internet). Actually I am In a Center inspired by the school 42 where we will free our imagination through the realization of the projects without the help of physical teachers !!!! But rather by the pairs the self learning and each one goes there has its rhythm !!!! I finished my school curriculum and there I am available for any type of opportunity (Work, consultancy). I am a resilient, autonomous, creative person and I really like art.  When has my nationality I am of Beninese origin but born in Niger and finally Naturalize Nigerien !!!!! I have other skills in Singing, Public Speaking and Personal Development ....",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "trakyrichardkanm3@gmail.com",
+    "phone": "00227 92666171",
+    "address": {
+      "street": "Saga Gorou",
+      "city": "Niger",
+      "state": "Niger",
+      "zip": ""
+    },
+    "website": "http://www.richard.codeloccol.org",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/TrakyRichard",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/TrakyRichard",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "trakyrichardkanm3@gmail.com",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/trakyrichard",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/trakyrichardk/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/TrakyRichard",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Je suis un grand passionner du Javascript et du Flutter",
+    "education": [
+      {
+        "school": "E.S.T",
+        "degree": "Diplome de Cycle Préparatoire Intégré",
+        "graduated": "Aout 2918",
+        "description": "From 2016 to 2018 after obtaining my BAC I did the integrated preparatory cycle. The course of this cycle was to benefit from an intense training of 2 years in Maths Physics Computer science. After this training the students trained will continue the rest of their training in another cycle called the Engineering cycle. During these 2 years of training I learned a lot about 1. Computing Precisely on the C Language and C ++. 2. Physics precisely on Optics thermodynamics mechanics etc. 3. Mathematics precisely on probability Applied Mathematics etc…."
+      },
+      {
+        "school": "E.S.T",
+        "degree": "Licence en Génie Logiciel",
+        "graduated": "2018 - 2020",
+        "description": "From 2018 to 2019 I did a bachelor's degree in Software Engineering. This License allowed me to understand Technologies related to the Web and Mobile .. and to benefit from MultiMedia training. During this year I have had the privilege of chairing the Oratory Club of Our School. I have organized several training sessions on Public Speaking and Self-Esteem in collaboration with other trainers in the field. I won a competition called DEV IS a competition which is organized internally at the school and which allowed different students to be not only graduates but also project-carrying diplomas."
+      },
+      {
+        "school": "Codeloccol",
+        "degree": "Certificate",
+        "graduated": "March 2021",
+        "description": "Arrival at CodeLoccol; A school inspired by school 42 my progress was dazzling, in only three months I could design applications that could communicate with external sources (such as retrieving weather data via an API (Application Programming Interface) and displaying them to the user) with basic technologies like #HTML, #CSS, #JavaScript."
+      }
+    ],
+    "work": [
+      {
+        "company": "SoftComp",
+        "title": "Designer Web et Infographe",
+        "years": "March 2016 - September 2017",
+        "description": "From my first year I had the chance to do an internship in an IT company called SOFTCOMP during this Internship I developed a passion for Mobile Applications. I started my first mobile apps with Ionic and at the same time I loved Photography so I was helping the company to take Photos at events organized by them"
+      },
+      {
+        "company": "BEN Electronique",
+        "title": "Electronician",
+        "years": "May 2017 - Aout 2017",
+        "description": "Ben Electronique is a company specializing in the repair of electronic equipment of all kinds. Such as Plasma Screen Television, Computers etc… .. During these 3 months of Internship I learned a lot about electronic components such as diodes, transistors and Operational amplifiers."
+      },
+      {
+        "company": "Yayimake",
+        "title": "Mobile Développer",
+        "years": "april 2020 - juin 2018",
+        "description": "Yayimake is a StartUp that evolves in artificial intelligence, in Computer Software Programming in the IOT (Internet of Things) and in the design of 3D Materials. My Internship within this startUp allowed me to work on one of their project which consisted of connecting a device to a Phone using Bluetooth, precisely the Bluetooth Serial."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "PhotoShop",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Flutter",
+        "level": "60%"
+      },
+      {
+        "name": "Kotlin",
+        "level": "40%"
+      },
+      {
+        "name": "Swift",
+        "level": "20%"
+      },
+      {
+        "name": "Firebase",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Youtube Clone",
+        "category": "I use the Youtube Api to clone my Own youtube..",
+        "image": "youtubeClone.png",
+        "url": "https://mytubeclone.web.app"
+      },
+      {
+        "title": "Amazon Clone ",
+        "category": "Amazon Clone project With React and Firebase",
+        "image": "amazonClone.png",
+        "url": "https://amazoon-clone-2.web.app/"
+      },
+      {
+        "title": "Social Media For Développer with MERN(Mongo, Express, React, Node)",
+        "category": "NigerCoders is a dating app for all coders in Niger, It is also the means to bring them together around a platform in order to create a community of Nigerian Developers.",
+        "image": "nigerCodeurs.png",
+        "url": "https://github.com/TrakyRichard/NigerCodeurs"
+      },
+      {
+        "title": "E-commerce Website with MERN(Mongo, Express, React, Node)",
+        "category": "This project is the creation of a commerce site allowing the sale and purchase of articles online. for the payment method we use Stripe.",
+        "image": "mernShopping.png",
+        "url": "https://github.com/kanmadozo/traky-Shopping.git"
+      },
+      {
+        "title": "AdminBoard UI with Materialise.css",
+        "category": "AdminBoard using Materialize.css and HTML",
+        "image": "materializeCssAdminBoard.png",
+        "url": "https://trakyrichard.github.io/myAdminMaerialiseCss/"
+      },
+      {
+        "title": "A DataVisualisation C02 app",
+        "category": "C02 emission. this project is an interface made with an APIs which allows access to our carbon calculation engine. For this application, the APIs that we used, allow in particular to list the Carbon Balance, the Carbon Balance items, the data, add data to your Carbon Balance, retrieve the results ...",
+        "image": "C02Emissions.png",
+        "url": "https://trakyrichard.github.io/c02-Emission/"
+      },
+      {
+        "title": "Instagram Clone(FrontEnd and Backend) with Flutter and Firebase",
+        "category": "I made a Instagram clone with Flutter see it on my git",
+        "image": "InstaClone.png",
+        "url": "https://github.com/kanmadozo/Social-Media.git"
+      },
+      {
+        "title": "Covid App Tracker",
+        "category": "Website I built for Tracking a CoronaVirus",
+        "image": "covidAppTracker.png",
+        "url": "https://appcovid19tracker.web.app/"
+      },
+      {
+        "title": "Twitter Ui clone",
+        "category": "A React and firebase personnal challenge.",
+        "image": "twitterClone.png",
+        "url": "https://twitter-app-clone-2.web.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
